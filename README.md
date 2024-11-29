@@ -1,3 +1,3 @@
 # react
 react series 
-author abhishek patil
+author : abhishek patil
